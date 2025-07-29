@@ -44,5 +44,3 @@ mvn test
 - É possível reiniciar o app com `driver.terminateApp(...)` e `driver.activateApp(...)`
 
 ---
-
-Desenvolvido por [fehgamarano](https://github.com/fehgamarano)
